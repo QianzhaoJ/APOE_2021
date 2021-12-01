@@ -1,2 +1,2 @@
 # APOE_2021
-The scripts of 
+Bioinformatics analysis about paper “Destabilizing heterochromatin by APOE mediates senescence” (Accepted)
